@@ -7,7 +7,6 @@ import random
 import gzip
 
 from argparse import ArgumentParser
-from argparse import ArgumentParser
 from columnInfo import get_columns
 
 parser = ArgumentParser(description="%prog name")
